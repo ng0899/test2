@@ -1,5 +1,5 @@
 <?php
-
+$a = 123;
 ?>
 
 <!doctype html>
